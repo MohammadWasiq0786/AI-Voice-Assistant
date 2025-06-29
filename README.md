@@ -29,15 +29,15 @@
 
 ````
 
-streamlit\_voice\_assistant/
+ai_streamlit_voice_assistant/
 ├── App.py                   # Landing/About page
 ├── utils.py                 # All logic: AI, DB, utils
 ├── Database/
-├── ├── conversation.db      # SQLite database
+|   ├── conversation.db      # SQLite database
 ├── Media/
-├── ├── audio.mp3            # Saving Audio File
+|   ├── audio.mp3            # Saving Audio File
 ├── pages/
-├── ├── .env                 # Store your Secret API keys
+|   ├── .env                 # Store your Secret API keys
 │   ├── 1\_Login.py          # Login/Register page
 │   ├── 2\_Chat.py           # AI Assistant main page
 │   └── 3\_Admin.py          # Admin dashboard
