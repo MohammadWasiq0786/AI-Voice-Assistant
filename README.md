@@ -18,13 +18,12 @@
 
 ---
 
-<!-- ## 🖼️ Demo UI Screens
+## 🖼️ Demo UI Screens
 
-| Login / Register | Assistant Interface | Admin Dashboard |
-|------------------|---------------------|-----------------|
-| ![Login](https://via.placeholder.com/300x200.png?text=Login+Page) | ![Chat](https://via.placeholder.com/300x200.png?text=Chat+UI) | ![Admin](https://via.placeholder.com/300x200.png?text=Admin+Dashboard) |
+| Home | Login / Register | Assistant Interface | Admin Dashboard |
+|------|------------------|---------------------|-----------------|
+| ![Home](https://github.com/MohammadWasiq0786/AI-Voice-Assistant/blob/main/image/home.png) | ![Login](https://github.com/MohammadWasiq0786/AI-Voice-Assistant/blob/main/image/auth.png) | ![Chat](https://github.com/MohammadWasiq0786/AI-Voice-Assistant/blob/main/image/chat.png) | ![Admin](https://github.com/MohammadWasiq0786/AI-Voice-Assistant/blob/main/image/admin.png) |
 
---- -->
 
 ## 📁 Folder Structure
 
@@ -125,7 +124,7 @@ The Admin Panel will show stats, logs, and a chat viewer.
 
 ## 🙌 Acknowledgments
 
-* [Euriai](https://euron.com/) for AI APIs
+* [Euriai](https://euron.one/euri/api) for AI APIs
 * [Streamlit](https://streamlit.io/) for UI framework
 * [gTTS](https://pypi.org/project/gTTS/) for speech output
 * [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) for mic input
@@ -136,8 +135,9 @@ The Admin Panel will show stats, logs, and a chat viewer.
 
 Have feedback or want to contribute?
 
-* 📧 Email: [mohammadwasiq786@gmail.com](mailto:mohammadwasiq786@gmail.com)
-* 💻 GitHub: [mohammadwasiq0786](https://github.com/mohammadwasiq0786)
+* 📧 **Email**: [mohammadwasiq786@gmail.com](mailto:mohammadwasiq786@gmail.com)
+* 💻 **GitHub**: [mohammadwasiq0786](https://github.com/mohammadwasiq0786)
+* 💼 **LinkedIn**: [mohammadwasiq0](https://www.linkedin.com/in/mohammadwasiq0/)
 
 Pull requests welcome! 🎉
 
