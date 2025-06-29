@@ -30,15 +30,18 @@
 ````
 
 streamlit\_voice\_assistant/
-├── app.py                   # Landing/About page
-├── assistant\_utils.py       # All logic: AI, DB, utils
-├── .env                     # Store your API key
-├── conversation.db          # SQLite database (auto created)
+├── App.py                   # Landing/About page
+├── utils.py                 # All logic: AI, DB, utils
+├── Database/
+├── ├── conversation.db      # SQLite database
+├── Media/
+├── ├── audio.mp3            # Saving Audio File
 ├── pages/
-│   ├── 1\_Login.py           # Login/Register page
-│   ├── 2\_Chat.py             # AI Assistant main page
-│   └── 3\_Admin.py           # Admin dashboard
-└── README.md                # This file
+├── ├── .env                 # Store your Secret API keys
+│   ├── 1\_Login.py          # Login/Register page
+│   ├── 2\_Chat.py           # AI Assistant main page
+│   └── 3\_Admin.py          # Admin dashboard
+└── README.md                # Project Information
 
 ````
 
